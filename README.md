@@ -19,4 +19,4 @@ The bisection method is a simple root-finding algorithm that works by repeatedly
 For a continous function `f(x)` and an interval `[a, b]` where `f(a) * f(b) < 0`, the [Intermediate Value Theorem](https://en.wikipedia.org/wiki/Intermediate_value_theorem) guarantees that there exists at least one root in the interval. The bisection method uses this property to approach the root.
 
 ## Licence
-This project is open source and available under the GNU GPL Licence.
+This project is open source and available under the MIT Licence.
